@@ -1,0 +1,8 @@
+{
+    "background-color" :"white",
+    "description": "Prototype for Insurance Company",
+    "display": "fullscreen",
+    "name": "Insurance prototype project",
+    "short_name": "Insurance prototype",
+    "start_url": "/pwa/"
+}
