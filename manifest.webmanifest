@@ -2,6 +2,13 @@
     "background-color" :"white",
     "description": "Prototype for Insurance Company",
     "display": "fullscreen",
+    "icons": [
+        {
+            "src":"img/icon.png",
+            "size": "180x180",
+            "type": "image/png"
+        }
+    ],
     "name": "Insurance prototype project",
     "short_name": "Insurance prototype",
     "start_url": "/pwa/"
